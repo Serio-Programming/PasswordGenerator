@@ -100,7 +100,7 @@ Investing
 Inventing
 Introducing
 Impaling
-JumpingWit
+JumpingWith
 Juggling
 Judging
 Jailing
@@ -209,7 +209,7 @@ Unlocking
 VentingTo
 Vexing
 Visiting
-Vanguishing
+Vanquishing
 Vacuuming
 WalkingWith
 Warming
