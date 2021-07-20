@@ -46,7 +46,7 @@ Cheetahs
 Chickens
 Champions
 Cavemen
-CandleMakers
+Candlemakers
 Cantaloupes
 Corgis
 Captains
@@ -72,7 +72,7 @@ Deer
 Dolphins
 Ducks
 Dogs
-Donkies
+Donkeys
 Dragons
 Druids
 Dwarves
@@ -109,8 +109,8 @@ Geese
 Gynecologists
 Gorillas
 Goldfish
-GunSlingers
-GarbageMen
+Gunslingers
+Garbagemen
 Hawks
 Horses
 Hobbits
@@ -145,9 +145,8 @@ Lumberjacks
 Lions
 Leopards
 Mice
-Monkies
+Monkeys
 Monsters
-Monkies
 Musketeers
 Mangoes
 Miners
@@ -187,7 +186,7 @@ Penguins
 Pumpkins
 Potatoes
 Paleontologists
-Pyschiatrists
+Psychiatrists
 Professors
 Physicists
 Pilots
@@ -211,13 +210,13 @@ Surgeons
 Sociologists
 Secretaries
 Snails
-Sorcerors
+Sorcerers
 Swimmers
 Shrimps
 Sponges
 Squids
 Starfishes
-Staticians
+Statisticians
 Stingrays
 Shellfish
 Spiders
@@ -235,7 +234,7 @@ TaxiDrivers
 Tigers
 Tapirs
 Termites
-Turkies
+Turkeys
 Turtles
 Tortoises
 Toads
@@ -286,5 +285,5 @@ Zombies
 Zookeepers
 Zoologists
 Zorses
-Zonkies
+Zonkeys
 Zebras
