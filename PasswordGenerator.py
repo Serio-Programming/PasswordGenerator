@@ -2,6 +2,7 @@
 # This program generates a password by combining randomly selected numbers and words
 # Circa May 2021
 # Tyler Serio
+# Python > 3.7
 
 import random
 
